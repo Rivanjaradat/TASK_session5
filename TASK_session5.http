@@ -1,0 +1,6 @@
+@TASK_session5_HostAddress = http://localhost:5247
+
+GET {{TASK_session5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
